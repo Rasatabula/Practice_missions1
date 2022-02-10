@@ -1,2 +1,1 @@
-# 1st_stage_git_testing
-I can win - difficulty
+All difficulties of git practice
